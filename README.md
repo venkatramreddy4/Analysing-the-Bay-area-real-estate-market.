@@ -1,5 +1,5 @@
 # Analyzing-the-Bay-area-real-estate-market.
-Aim: Analyzing real estate market trends in the San Francisco Bay Area to identify pricing patterns, housing demand, and market growth opportunities.
+Analyzing real estate market trends in the San Francisco Bay Area to identify pricing patterns, housing demand, and market growth opportunities.
 Data Sources: webscraped data from Redfin website.
 Tools & Technologies: Python, Pandas, NumPy, Matplotlib/Seaborn, SQL.
 Key Features
